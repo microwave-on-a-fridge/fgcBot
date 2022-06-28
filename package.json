@@ -1,0 +1,1 @@
+{"name":"fgcBot","version":"1.0.0","description":"Multipurpose FGC bot.","main":"bot.js","author":"KoenProduk","dependencies":{"discord.io":"https://github.com/woor/discord.io/tarball/gateway_v6","winston":"^3.8.0"}}
