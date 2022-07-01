@@ -169,7 +169,7 @@ if (message.substring(0, 1) == '|') {
 
                 to: channelID,
 
-                message: 'Workshop characters aren\'t implemented into Mentorbot 3.0, so this serves as an easy access way of viewing Mollo\s moves and frame data. \n https://docs.google.com/spreadsheets/d/19UtK7xG2c-ehxdlhCFKMpM4_IHSG-EXFgXLJaunE79I/edit#gid=337491709'
+                message: 'Workshop characters aren\'t implemented into Mentorbot 3.0, so this serves as an easy access way of viewing Mollo\'s moves and frame data. \n https://docs.google.com/spreadsheets/d/19UtK7xG2c-ehxdlhCFKMpM4_IHSG-EXFgXLJaunE79I/edit#gid=337491709'
 
             });
 
@@ -184,7 +184,7 @@ if (message.substring(0, 1) == '|') {
 
                 to: channelID,
 
-                message: 'Workshop characters aren\'t implemented into Mentorbot 3.0, so this serves as an easy access way of viewing Olympia\s moves and frame data. \n https://docs.google.com/spreadsheets/d/19UtK7xG2c-ehxdlhCFKMpM4_IHSG-EXFgXLJaunE79I/edit#gid=1865402036'
+                message: 'Workshop characters aren\'t implemented into Mentorbot 3.0, so this serves as an easy access way of viewing Olympia\'s moves and frame data. \n https://docs.google.com/spreadsheets/d/19UtK7xG2c-ehxdlhCFKMpM4_IHSG-EXFgXLJaunE79I/edit#gid=1865402036'
 
             });
 
@@ -199,7 +199,7 @@ if (message.substring(0, 1) == '|') {
 
                 to: channelID,
 
-                message: 'Workshop characters aren\'t implemented into Mentorbot 3.0, so this serves as an easy access way of viewing Pomme\s moves and frame data. \n https://docs.google.com/spreadsheets/d/19UtK7xG2c-ehxdlhCFKMpM4_IHSG-EXFgXLJaunE79I/edit#gid=216747637'
+                message: 'Workshop characters aren\'t implemented into Mentorbot 3.0, so this serves as an easy access way of viewing Pomme\'s moves and frame data. \n https://docs.google.com/spreadsheets/d/19UtK7xG2c-ehxdlhCFKMpM4_IHSG-EXFgXLJaunE79I/edit#gid=216747637'
 
             });
 
